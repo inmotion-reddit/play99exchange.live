@@ -28,4 +28,6 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-Sitemap: https://cricbet99.vip/
+Sitemap: https://play99exchange.live/sitemap.xml
+Sitemap: https://play99exchange.live/images_sitemap.xml
+
